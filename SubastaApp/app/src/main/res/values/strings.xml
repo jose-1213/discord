@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppSubasta</string>
+    <string name="button">Button</string>
+    <string name="nombre">nombre</string>
+    <string name="guardar">Guardar</string>
+    <string name="Nombre">Nombre</string>
+</resources>
